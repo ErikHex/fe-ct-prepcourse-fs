@@ -7,6 +7,7 @@ function elevarAlCubo(num) {
   // 3 ---> 27
   // 0 ---> 0
   // Tu código:
+  return Math.cbrt(num);
 }
 
 module.exports = elevarAlCubo;
